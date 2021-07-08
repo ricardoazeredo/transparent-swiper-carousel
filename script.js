@@ -9,7 +9,7 @@ jQuery(document).ready(function($){
     autoplay: true,
     dots: true,
     autoplayTimeout: 8500,
-    smartSpeed: 450,
+    smartSpeed: 450, 
     responsive: {
       0: {
         items: 1
@@ -20,7 +20,7 @@ jQuery(document).ready(function($){
       1170: {
         items: 3
       }      
-    }
+    },
   });
   
 });
