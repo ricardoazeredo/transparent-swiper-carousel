@@ -2,12 +2,15 @@
 <img src="print.png">
 <div>
 Using: 
+  <br/>
 -Bootstrap's bootswatch Cerulean cdn:
   Link: https://www.bootstrapcdn.com/bootswatch/ 
 
+  <br/>
 -Olw Carousel 2 cdn:
   Link: https://cdnjs.com/libraries/OwlCarousel2
-
+<br/>
+  
 -JQuery 3.6 cdn:
   Paste in code: 
   <script
